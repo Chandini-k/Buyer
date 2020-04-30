@@ -1,0 +1,407 @@
+2020-04-29 15:03:32.0755 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 15:03:32.1836 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 15:03:32.2965 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-29 15:03:32.2991 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-29 15:03:32.2991 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 15:03:32.2991 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 15:03:32.3176 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-04-29 15:03:32.3176 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-29 15:03:32.3176 Info Message Template Auto Format enabled
+2020-04-29 15:03:32.3176 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-29 15:03:32.7190 Info Adding target FileTarget(Name=alldata)
+2020-04-29 15:03:32.7190 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-29 15:03:32.7956 Info Found 45 configuration items
+2020-04-29 15:05:09.6617 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 15:05:09.8222 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 15:05:09.8729 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-29 15:05:09.8791 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-29 15:05:09.8791 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 15:05:09.8791 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 15:05:09.8977 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-04-29 15:05:09.8977 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-29 15:05:09.9110 Info Message Template Auto Format enabled
+2020-04-29 15:05:09.9110 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-29 15:05:10.1035 Info Adding target FileTarget(Name=alldata)
+2020-04-29 15:05:10.1035 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-29 15:05:10.1743 Info Found 45 configuration items
+2020-04-29 15:23:13.7774 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 15:23:13.8404 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 15:23:13.8751 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-29 15:23:13.8801 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-29 15:23:13.8801 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 15:23:13.8801 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 15:23:13.8956 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-04-29 15:23:13.8956 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-29 15:23:13.8956 Info Message Template Auto Format enabled
+2020-04-29 15:23:13.9136 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-29 15:23:14.0945 Info Adding target FileTarget(Name=alldata)
+2020-04-29 15:23:14.0945 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-29 15:23:14.1649 Info Found 45 configuration items
+2020-04-29 15:42:26.6076 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 15:42:26.6869 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 15:42:26.7567 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-29 15:42:26.7690 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-29 15:42:26.7690 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 15:42:26.7690 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 15:42:26.7872 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-04-29 15:42:26.7872 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-29 15:42:26.7987 Info Message Template Auto Format enabled
+2020-04-29 15:42:26.7987 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-29 15:42:27.0188 Info Adding target FileTarget(Name=alldata)
+2020-04-29 15:42:27.0188 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-29 15:42:27.0939 Info Found 45 configuration items
+2020-04-29 15:44:47.8679 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 15:44:48.0192 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 15:44:48.0878 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-29 15:44:48.0942 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-29 15:44:48.0942 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 15:44:48.0942 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 15:44:48.1183 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-04-29 15:44:48.1183 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-29 15:44:48.1337 Info Message Template Auto Format enabled
+2020-04-29 15:44:48.1435 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-29 15:44:48.4741 Info Adding target FileTarget(Name=alldata)
+2020-04-29 15:44:48.4741 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-29 15:44:48.6029 Info Found 45 configuration items
+2020-04-29 15:55:40.3184 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 15:55:40.4220 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 15:55:40.4811 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-29 15:55:40.4853 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-29 15:55:40.4853 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 15:55:40.4853 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 15:55:40.5245 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-04-29 15:55:40.5245 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-29 15:55:40.5437 Info Message Template Auto Format enabled
+2020-04-29 15:55:40.5540 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-29 15:55:40.8608 Info Adding target FileTarget(Name=alldata)
+2020-04-29 15:55:40.8608 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-29 15:55:40.9704 Info Found 45 configuration items
+2020-04-29 17:13:04.6631 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 17:13:04.6861 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 17:13:04.7296 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-29 17:13:04.7296 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-29 17:13:04.7296 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 17:13:04.7296 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 17:13:04.7486 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-04-29 17:13:04.7540 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-29 17:13:04.7540 Info Message Template Auto Format enabled
+2020-04-29 17:13:04.7680 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-29 17:13:04.9285 Info Adding target FileTarget(Name=alldata)
+2020-04-29 17:13:04.9285 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-29 17:13:05.0084 Info Found 45 configuration items
+2020-04-29 17:16:47.2606 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 17:16:47.2819 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-29 17:16:47.3296 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-29 17:16:47.3296 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-29 17:16:47.3296 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 17:16:47.3296 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-29 17:16:47.3673 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-04-29 17:16:47.3673 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-29 17:16:47.3803 Info Message Template Auto Format enabled
+2020-04-29 17:16:47.3803 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-29 17:16:47.6060 Info Adding target FileTarget(Name=alldata)
+2020-04-29 17:16:47.6095 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-29 17:16:47.6660 Info Found 45 configuration items
+2020-04-30 07:13:11.2065 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-30 07:13:11.3127 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-30 07:13:11.4111 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-30 07:13:11.4136 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-30 07:13:11.4136 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-30 07:13:11.4136 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-30 07:13:11.4480 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-04-30 07:13:11.4480 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-30 07:13:11.4480 Info Message Template Auto Format enabled
+2020-04-30 07:13:11.4652 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 07:13:11.7942 Info Adding target FileTarget(Name=alldata)
+2020-04-30 07:13:11.7942 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 07:13:11.8395 Info Found 45 configuration items
+2020-04-30 07:29:44.2476 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-30 07:29:44.2755 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-30 07:29:44.3273 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-30 07:29:44.3504 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-30 07:29:44.3504 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-30 07:29:44.3504 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-30 07:29:44.4057 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-04-30 07:29:44.4145 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-30 07:29:44.4145 Info Message Template Auto Format enabled
+2020-04-30 07:29:44.4378 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 07:29:44.6551 Info Adding target FileTarget(Name=alldata)
+2020-04-30 07:29:44.6551 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 07:29:44.7788 Info Found 45 configuration items
+2020-04-30 07:35:50.5906 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-30 07:35:50.6138 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-30 07:35:50.6657 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-30 07:35:50.6657 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-30 07:35:50.6782 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-30 07:35:50.6782 Info Loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-30 07:35:50.6973 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-04-30 07:35:50.6973 Info Auto loading assembly file: C:\PROJECT\BUYER\UserService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-30 07:35:50.6973 Info Message Template Auto Format enabled
+2020-04-30 07:35:50.7204 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 07:35:50.8714 Info Adding target FileTarget(Name=alldata)
+2020-04-30 07:35:50.8714 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 07:35:50.9505 Info Found 45 configuration items
+2020-04-30 07:55:00.7853 Info Message Template Auto Format enabled
+2020-04-30 07:55:00.8769 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 07:55:01.2202 Info Adding target FileTarget(Name=alldata)
+2020-04-30 07:55:01.2517 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 07:55:01.3693 Info Found 45 configuration items
+2020-04-30 07:55:03.0573 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 07:55:03.0573 Info Message Template Auto Format enabled
+2020-04-30 07:55:03.0573 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 07:55:03.0573 Info Adding target FileTarget(Name=alldata)
+2020-04-30 07:55:03.0573 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 07:55:03.0573 Info Closing old configuration.
+2020-04-30 07:55:03.1527 Info Found 45 configuration items
+2020-04-30 08:13:57.1847 Info Message Template Auto Format enabled
+2020-04-30 08:13:57.2358 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 08:13:57.4277 Info Adding target FileTarget(Name=alldata)
+2020-04-30 08:13:57.4654 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 08:13:57.5812 Info Found 45 configuration items
+2020-04-30 08:13:59.1993 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 08:13:59.1993 Info Message Template Auto Format enabled
+2020-04-30 08:13:59.1993 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 08:13:59.2093 Info Adding target FileTarget(Name=alldata)
+2020-04-30 08:13:59.2093 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 08:13:59.2093 Info Closing old configuration.
+2020-04-30 08:13:59.2808 Info Found 45 configuration items
+2020-04-30 08:22:22.2311 Info Message Template Auto Format enabled
+2020-04-30 08:22:22.4186 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 08:22:22.8555 Info Adding target FileTarget(Name=alldata)
+2020-04-30 08:22:22.8822 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 08:22:22.9962 Info Found 45 configuration items
+2020-04-30 08:22:24.4641 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 08:22:24.4641 Info Message Template Auto Format enabled
+2020-04-30 08:22:24.4641 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 08:22:24.4750 Info Adding target FileTarget(Name=alldata)
+2020-04-30 08:22:24.4750 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 08:22:24.4750 Info Closing old configuration.
+2020-04-30 08:22:24.5755 Info Found 45 configuration items
+2020-04-30 09:28:30.3544 Info Message Template Auto Format enabled
+2020-04-30 09:28:30.4829 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 09:28:30.7551 Info Adding target FileTarget(Name=alldata)
+2020-04-30 09:28:30.7774 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 09:28:31.3846 Info Found 45 configuration items
+2020-04-30 09:28:33.2755 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 09:28:33.2755 Info Message Template Auto Format enabled
+2020-04-30 09:28:33.2755 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 09:28:33.2755 Info Adding target FileTarget(Name=alldata)
+2020-04-30 09:28:33.2755 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 09:28:33.2950 Info Closing old configuration.
+2020-04-30 09:28:33.3988 Info Found 45 configuration items
+2020-04-30 09:29:56.1825 Info Message Template Auto Format enabled
+2020-04-30 09:29:56.2165 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 09:29:56.4701 Info Adding target FileTarget(Name=alldata)
+2020-04-30 09:29:56.5316 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 09:29:56.7351 Info Found 45 configuration items
+2020-04-30 09:29:58.5692 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 09:29:58.5692 Info Message Template Auto Format enabled
+2020-04-30 09:29:58.5692 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 09:29:58.5692 Info Adding target FileTarget(Name=alldata)
+2020-04-30 09:29:58.5692 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 09:29:58.5692 Info Closing old configuration.
+2020-04-30 09:29:58.6290 Info Found 45 configuration items
+2020-04-30 09:31:05.9200 Info Message Template Auto Format enabled
+2020-04-30 09:31:05.9936 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 09:31:06.2632 Info Adding target FileTarget(Name=alldata)
+2020-04-30 09:31:06.2857 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 09:31:06.4074 Info Found 45 configuration items
+2020-04-30 09:31:07.9853 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 09:31:07.9853 Info Message Template Auto Format enabled
+2020-04-30 09:31:07.9930 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 09:31:07.9930 Info Adding target FileTarget(Name=alldata)
+2020-04-30 09:31:07.9930 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 09:31:08.0056 Info Closing old configuration.
+2020-04-30 09:31:08.1087 Info Found 45 configuration items
+2020-04-30 09:37:18.8219 Info Message Template Auto Format enabled
+2020-04-30 09:37:18.8922 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 09:37:19.1111 Info Adding target FileTarget(Name=alldata)
+2020-04-30 09:37:19.1519 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 09:37:19.3067 Info Found 45 configuration items
+2020-04-30 09:37:21.0727 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 09:37:21.0727 Info Message Template Auto Format enabled
+2020-04-30 09:37:21.0727 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 09:37:21.0727 Info Adding target FileTarget(Name=alldata)
+2020-04-30 09:37:21.0727 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 09:37:21.0727 Info Closing old configuration.
+2020-04-30 09:37:21.1753 Info Found 45 configuration items
+2020-04-30 09:41:49.2405 Info Message Template Auto Format enabled
+2020-04-30 09:41:49.3978 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 09:41:49.8178 Info Adding target FileTarget(Name=alldata)
+2020-04-30 09:41:49.8383 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 09:41:49.9946 Info Found 45 configuration items
+2020-04-30 09:41:51.6273 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 09:41:51.6273 Info Message Template Auto Format enabled
+2020-04-30 09:41:51.6319 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 09:41:51.6319 Info Adding target FileTarget(Name=alldata)
+2020-04-30 09:41:51.6319 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 09:41:51.6459 Info Closing old configuration.
+2020-04-30 09:41:51.7774 Info Found 45 configuration items
+2020-04-30 11:34:16.4372 Info Message Template Auto Format enabled
+2020-04-30 11:34:16.5493 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 11:34:17.2632 Info Adding target FileTarget(Name=alldata)
+2020-04-30 11:34:17.2820 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 11:34:17.4038 Info Found 45 configuration items
+2020-04-30 11:34:20.0232 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 11:34:20.0232 Info Message Template Auto Format enabled
+2020-04-30 11:34:20.0232 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 11:34:20.0232 Info Adding target FileTarget(Name=alldata)
+2020-04-30 11:34:20.0232 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 11:34:20.0232 Info Closing old configuration.
+2020-04-30 11:34:20.1143 Info Found 45 configuration items
+2020-04-30 11:36:57.5674 Info Message Template Auto Format enabled
+2020-04-30 11:36:57.6882 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 11:36:58.0870 Info Adding target FileTarget(Name=alldata)
+2020-04-30 11:36:58.1554 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 11:36:58.2890 Info Found 45 configuration items
+2020-04-30 11:37:00.1912 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 11:37:00.1912 Info Message Template Auto Format enabled
+2020-04-30 11:37:00.2272 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 11:37:00.2272 Info Adding target FileTarget(Name=alldata)
+2020-04-30 11:37:00.2272 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 11:37:00.2272 Info Closing old configuration.
+2020-04-30 11:37:00.3836 Info Found 45 configuration items
+2020-04-30 11:53:35.4813 Info Message Template Auto Format enabled
+2020-04-30 11:53:35.5342 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 11:53:35.8532 Info Adding target FileTarget(Name=alldata)
+2020-04-30 11:53:35.8711 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 11:53:35.9837 Info Found 45 configuration items
+2020-04-30 11:53:37.7369 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 11:53:37.7369 Info Message Template Auto Format enabled
+2020-04-30 11:53:37.7411 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 11:53:37.7411 Info Adding target FileTarget(Name=alldata)
+2020-04-30 11:53:37.7411 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 11:53:37.7411 Info Closing old configuration.
+2020-04-30 11:53:37.8187 Info Found 45 configuration items
+2020-04-30 11:58:08.9705 Info Message Template Auto Format enabled
+2020-04-30 11:58:08.9944 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 11:58:09.1954 Info Adding target FileTarget(Name=alldata)
+2020-04-30 11:58:09.2118 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 11:58:09.2816 Info Found 45 configuration items
+2020-04-30 11:58:10.3283 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 11:58:10.3283 Info Message Template Auto Format enabled
+2020-04-30 11:58:10.3283 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 11:58:10.3283 Info Adding target FileTarget(Name=alldata)
+2020-04-30 11:58:10.3283 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 11:58:10.3336 Info Closing old configuration.
+2020-04-30 11:58:10.3901 Info Found 45 configuration items
+2020-04-30 12:31:57.0654 Info Message Template Auto Format enabled
+2020-04-30 12:31:57.2985 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 12:31:57.5488 Info Adding target FileTarget(Name=alldata)
+2020-04-30 12:31:57.6056 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 12:31:57.8169 Info Found 45 configuration items
+2020-04-30 12:31:59.5471 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 12:31:59.5471 Info Message Template Auto Format enabled
+2020-04-30 12:31:59.5471 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 12:31:59.5471 Info Adding target FileTarget(Name=alldata)
+2020-04-30 12:31:59.5471 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 12:31:59.5471 Info Closing old configuration.
+2020-04-30 12:31:59.6514 Info Found 45 configuration items
+2020-04-30 12:36:27.2332 Info Message Template Auto Format enabled
+2020-04-30 12:36:27.2702 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 12:36:27.6395 Info Adding target FileTarget(Name=alldata)
+2020-04-30 12:36:27.8891 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 12:36:28.2711 Info Found 45 configuration items
+2020-04-30 12:36:29.6497 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 12:36:29.6497 Info Message Template Auto Format enabled
+2020-04-30 12:36:29.6497 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 12:36:29.6497 Info Adding target FileTarget(Name=alldata)
+2020-04-30 12:36:29.6497 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 12:36:29.6497 Info Closing old configuration.
+2020-04-30 12:36:29.7527 Info Found 45 configuration items
+2020-04-30 12:43:41.2378 Info Message Template Auto Format enabled
+2020-04-30 12:43:41.2746 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 12:43:41.5415 Info Adding target FileTarget(Name=alldata)
+2020-04-30 12:43:41.6392 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 12:43:41.7568 Info Found 45 configuration items
+2020-04-30 12:43:43.4804 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 12:43:43.4804 Info Message Template Auto Format enabled
+2020-04-30 12:43:43.4804 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 12:43:43.4804 Info Adding target FileTarget(Name=alldata)
+2020-04-30 12:43:43.4804 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 12:43:43.4804 Info Closing old configuration.
+2020-04-30 12:43:43.5741 Info Found 45 configuration items
+2020-04-30 12:53:34.2382 Info Message Template Auto Format enabled
+2020-04-30 12:53:34.2967 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 12:53:34.6534 Info Adding target FileTarget(Name=alldata)
+2020-04-30 12:53:34.7046 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 12:53:34.9699 Info Found 45 configuration items
+2020-04-30 12:53:37.5501 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 12:53:37.5501 Info Message Template Auto Format enabled
+2020-04-30 12:53:37.5545 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 12:53:37.5545 Info Adding target FileTarget(Name=alldata)
+2020-04-30 12:53:37.5873 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 12:53:37.6214 Info Closing old configuration.
+2020-04-30 12:53:37.7483 Info Found 45 configuration items
+2020-04-30 12:55:42.0152 Info Message Template Auto Format enabled
+2020-04-30 12:55:42.3534 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 12:55:42.9201 Info Adding target FileTarget(Name=alldata)
+2020-04-30 12:55:42.9449 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 12:55:43.1385 Info Found 45 configuration items
+2020-04-30 12:55:45.1820 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 12:55:45.1820 Info Message Template Auto Format enabled
+2020-04-30 12:55:45.1820 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 12:55:45.1820 Info Adding target FileTarget(Name=alldata)
+2020-04-30 12:55:45.1820 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 12:55:45.1820 Info Closing old configuration.
+2020-04-30 12:55:45.3307 Info Found 45 configuration items
+2020-04-30 13:00:05.8922 Info Message Template Auto Format enabled
+2020-04-30 13:00:05.9484 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 13:00:06.3171 Info Adding target FileTarget(Name=alldata)
+2020-04-30 13:00:06.3564 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 13:00:06.6044 Info Found 45 configuration items
+2020-04-30 13:00:09.1499 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 13:00:09.1499 Info Message Template Auto Format enabled
+2020-04-30 13:00:09.1671 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 13:00:09.1671 Info Adding target FileTarget(Name=alldata)
+2020-04-30 13:00:09.1671 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 13:00:09.1671 Info Closing old configuration.
+2020-04-30 13:00:09.3166 Info Found 45 configuration items
+2020-04-30 13:46:38.8537 Info Message Template Auto Format enabled
+2020-04-30 13:46:39.0375 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 13:46:39.7901 Info Adding target FileTarget(Name=alldata)
+2020-04-30 13:46:39.8626 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 13:46:40.2992 Info Found 45 configuration items
+2020-04-30 13:46:48.2287 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 13:46:48.2287 Info Message Template Auto Format enabled
+2020-04-30 13:46:48.2449 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 13:46:48.2449 Info Adding target FileTarget(Name=alldata)
+2020-04-30 13:46:48.2649 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 13:46:48.2649 Info Closing old configuration.
+2020-04-30 13:46:48.4033 Info Found 45 configuration items
+2020-04-30 14:10:11.9906 Info Message Template Auto Format enabled
+2020-04-30 14:10:12.0812 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 14:10:12.9096 Info Adding target FileTarget(Name=alldata)
+2020-04-30 14:10:12.9618 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 14:10:13.1893 Info Found 45 configuration items
+2020-04-30 14:10:16.6705 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 14:10:16.6705 Info Message Template Auto Format enabled
+2020-04-30 14:10:16.6832 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 14:10:16.6832 Info Adding target FileTarget(Name=alldata)
+2020-04-30 14:10:16.6936 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 14:10:16.6936 Info Closing old configuration.
+2020-04-30 14:10:16.8247 Info Found 45 configuration items
+2020-04-30 14:12:44.4568 Info Message Template Auto Format enabled
+2020-04-30 14:12:44.5339 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 14:12:44.8986 Info Adding target FileTarget(Name=alldata)
+2020-04-30 14:12:44.9532 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 14:12:45.3861 Info Found 45 configuration items
+2020-04-30 14:12:48.4565 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 14:12:48.4620 Info Message Template Auto Format enabled
+2020-04-30 14:12:48.4620 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 14:12:48.4620 Info Adding target FileTarget(Name=alldata)
+2020-04-30 14:12:48.4752 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 14:12:48.4752 Info Closing old configuration.
+2020-04-30 14:12:48.5694 Info Found 45 configuration items
+2020-04-30 14:39:09.0227 Info Message Template Auto Format enabled
+2020-04-30 14:39:09.1213 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 14:39:09.4746 Info Adding target FileTarget(Name=alldata)
+2020-04-30 14:39:09.4970 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 14:39:09.6998 Info Found 45 configuration items
+2020-04-30 14:39:12.4130 Info Configuring from an XML element in C:\PROJECT\BUYER\UserService/nlog.config...
+2020-04-30 14:39:12.4291 Info Message Template Auto Format enabled
+2020-04-30 14:39:12.4291 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-30 14:39:12.4465 Info Adding target FileTarget(Name=alldata)
+2020-04-30 14:39:12.4465 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-30 14:39:12.4465 Info Closing old configuration.
+2020-04-30 14:39:12.5517 Info Found 45 configuration items
